@@ -1,7 +1,4 @@
-.outer-Table{
-    background:#262626;
-    
-}
+
 .inner-Table{
     margin: auto;
     background: white;
@@ -121,16 +118,20 @@
             width:32%; 
             height:100%;
             margin: 5px;
+            cursor: pointer;
         }
         .breakfast-pic{
             width:30%; 
             height:30%;
             margin: 5px;
+            cursor: pointer;
+
         }
         .dinner-pic{
             width:30%; 
             height:30%;
             margin: 5px;
+            cursor: pointer;
 
         }
     }
