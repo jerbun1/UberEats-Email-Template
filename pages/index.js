@@ -11,11 +11,11 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       {/* Outer table */}
-      <table className="outer-Table" width="100%" border="0" cellspacing="0" cellpadding="0">
+      <table className="outer-Table" width="100%" border="0" cellSpacing="0" cellPadding="0">
         <tr>
           <td>
           {/* Inner Table  */}
-            <table className="inner-Table" max-height="800px" width="600px" border="0" cellspacing="0" cellpadding="0">
+            <table className="inner-Table" max-height="800px" width="600px" border="0" cellSpacing="0" cellPadding="0">
               {/* The First Row */}
               <tr className="firstRow">
                 <td>
